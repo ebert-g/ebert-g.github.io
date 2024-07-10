@@ -1,0 +1,20 @@
+body {
+    background: #f0f0f0;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+}
+header {
+    color: #333333;
+    text-align: center;
+}
+.sect {
+    background: white;
+    border-radius: 10px;
+    padding: 15x;
+    width: auto;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+}
+#sect1 {
+    text-align: center;
+}
